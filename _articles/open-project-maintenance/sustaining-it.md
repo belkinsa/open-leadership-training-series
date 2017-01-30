@@ -16,7 +16,9 @@ format:
 
 ## Pacing Yourself
 
-As your project grows in size, your workload as a project will grow also. Knowing how to pace yourself is the key.
+As your project grows in size, your workload as a project will grow also. It's the key to know to pace yourself.
+
+One way is to setting expectations for contributors, for example posting a "I will get back to you on this in 2 days" as a comment, but the downside to this is that you remember that.  The use of task lists and/or calendars can help.
 
 ## Burnout
 
